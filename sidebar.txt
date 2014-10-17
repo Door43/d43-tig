@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tig:home|Door43 (tig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tig|d43-tig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tig/archive/master.zip|d43-tig.zip]]
+
+**Recent Changes**
+{{changes>ns = tig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tig|Ethnologue data]]
+
