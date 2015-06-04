@@ -1,0 +1,34 @@
+//Translation for the unfoldingWord mobile app interface//
+
+
+cancel: ይሰረዝ
+
+
+chapters: ምዕራፎች
+
+
+languages: ቋንቋዎች
+
+
+next_chapter: የሚቀጥለው    ምዕራፍ
+
+
+ok: ይሁን
+
+
+remove_locally: ከአካባቢህ አስወግደው
+
+
+remove_this_string: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
+
+
+save_locally: በአካባቢህ    ይቀመጥ
+
+
+save_this_language_locally_for_offline_use: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
+
+
+save_this_string: ይህን ስትሪንግ አስቀምጠው
+
+
+select_a_language: ቋንቋ ምረጥ
